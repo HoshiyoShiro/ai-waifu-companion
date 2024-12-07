@@ -1,2 +1,2 @@
 # ai-waifu-companion
-Waifu Companion with Live2D component &amp; LLM Integration
+Waifu Companion with Interactive Character &amp; LLM Integration
